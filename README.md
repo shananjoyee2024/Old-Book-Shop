@@ -39,6 +39,7 @@ Lecturer of North Western University, Khulna
 
 Any further information please contact with me with this link:
 
-<a href="https://www.facebook.com/hasibulhossen.shanto.180">Hasibul Hossen Shanto</a>
-<a href="mailto:hasibulhossen618@gmail.com">Hasibul Hossen Shanto</a>
+<a href="https://www.facebook.com/hasibulhossen.shanto.180">Facebook</a>
+<br>
+<a href="mailto:hasibulhossen618@gmail.com">Email</a>
 
